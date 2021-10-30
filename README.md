@@ -12,3 +12,5 @@ This was my first project in Swing.<br>
 -extending class label to create in-game timer.
 ## Version
 Propably v0.1 is the last since Swing is outdated.
+# Screenshot
+![image](sudoku-image.png)
